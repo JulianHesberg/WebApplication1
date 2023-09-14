@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "0P5w+p6CG4V4Mo9edsn9kIpCcse1xsxrRZfD9DsX2pRWUfCHXBaddUqBAXBVsIkDUyoSSP0MfFh8Li5wAppe5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\RiderProjects\\WebApplication1\\service\\service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\newtonsoft.json.bson\\1.0.3-beta1\\newtonsoft.json.bson.1.0.3-beta1.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\npgsql\\8.0.0-preview.4\\npgsql.8.0.0-preview.4.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

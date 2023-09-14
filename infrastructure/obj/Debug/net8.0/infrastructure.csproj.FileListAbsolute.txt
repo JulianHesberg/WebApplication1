@@ -1,0 +1,12 @@
+C:\Users\julia\RiderProjects\WebApplication1\infrastructure\bin\Debug\net8.0\infrastructure.deps.json
+C:\Users\julia\RiderProjects\WebApplication1\infrastructure\bin\Debug\net8.0\infrastructure.dll
+C:\Users\julia\RiderProjects\WebApplication1\infrastructure\bin\Debug\net8.0\infrastructure.pdb
+C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.AssemblyInfo.cs
+C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.dll
+C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\refint\infrastructure.dll
+C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.pdb
+C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\ref\infrastructure.dll
