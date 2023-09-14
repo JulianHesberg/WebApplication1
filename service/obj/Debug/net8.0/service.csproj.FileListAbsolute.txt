@@ -13,3 +13,4 @@ C:\Users\julia\RiderProjects\WebApplication1\service\obj\Debug\net8.0\service.dl
 C:\Users\julia\RiderProjects\WebApplication1\service\obj\Debug\net8.0\refint\service.dll
 C:\Users\julia\RiderProjects\WebApplication1\service\obj\Debug\net8.0\service.pdb
 C:\Users\julia\RiderProjects\WebApplication1\service\obj\Debug\net8.0\ref\service.dll
+C:\Users\julia\RiderProjects\WebApplication1\service\obj\Debug\net8.0\service.sourcelink.json

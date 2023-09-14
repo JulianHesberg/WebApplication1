@@ -10,3 +10,4 @@ C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\inf
 C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\refint\infrastructure.dll
 C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.pdb
 C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\ref\infrastructure.dll
+C:\Users\julia\RiderProjects\WebApplication1\infrastructure\obj\Debug\net8.0\infrastructure.sourcelink.json
