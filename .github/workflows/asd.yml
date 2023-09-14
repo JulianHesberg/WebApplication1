@@ -1,0 +1,9 @@
+name: hello world
+on:
+  workflow_dispatch:
+jobs:
+  dosomething:
+    runs-on: ubuntu-lates
+    steps:
+      - name: say hi
+        run: echo "hey"
