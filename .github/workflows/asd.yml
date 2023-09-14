@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 jobs:
   dosomething:
-    runs-on: ubuntu-lates
+    runs-on: ubuntu-latest
     steps:
       - name: say hi
         run: echo "hey"
